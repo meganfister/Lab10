@@ -18,6 +18,14 @@ Megan Fister
 ### Part 3 - Streamlit
 
 ## Results
+Prompts
+
+station.csv
+Generate a Python function that accesses the database, filters for the names of water quality measurement sites, and displays the location information for all sites without repetition  
+
+Generate a Python function that creates a map that pinpoints the location of every station in the database
+
+
 
 ## Discussion
 
